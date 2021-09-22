@@ -2,3 +2,4 @@
 - 👀 Acabei de me formar em Análise e Desenvolvimento de Sistemas 
 - 🌱 Espero poder ajudar a todos que precisarem de mim com meus conhecimentos
 - 📫  Contato: tarciziomd@gmail.com ... Whatsapp: (99)99198-8640
+-  No momento estou estudando JavaScript, Flutter com Dart, Java e futuramente quero aprender Nodejs
