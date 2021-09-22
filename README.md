@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @TarcizioDantas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TarcizioDantas/TarcizioDantas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, sou Tarcizio Dantas
+- 👀 Acabei de me formar em Análise e Desenvolvimento de Sistemas 
+- 🌱 Espero poder ajudar a todos que precisarem de mim com meus conhecimentos
+- 📫  Contato: tarciziomd@gmail.com ... Whatsapp: (99)99198-8640
