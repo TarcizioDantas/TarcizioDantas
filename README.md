@@ -1,5 +1,5 @@
 - 👋 Olá, sou Tarcizio Dantas
-- 👀 Acabei de me formar em Análise e Desenvolvimento de Sistemas 
+- 👀 Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade UNIFAVIP/WYDEN-CARUARÚ-PE
 - 🌱 Espero poder ajudar a todos que precisarem de mim com meus conhecimentos
-- 📫  Contato: tarciziomd@gmail.com ... Whatsapp: (99)99198-8640
+- 📫  Contato: tarciziomd@gmail.com/tarciziomd@hotmail.com
 -  No momento estou estudando HTML, CSS, JavaScript, Flutter com Dart e Java, futuramente quero aprender Python, Nodejs e outras mais...
