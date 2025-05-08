@@ -1,6 +1,6 @@
 - 👋 Olá, sou Tarcizio Dantas
 -    Técnico Autodidata em Informática
--    Curso de Programação em Delphi7
+-    Curso de Programação em Delphi7 - SENAC-MA
 -    Autodidata em JAVA
 -    Alguns cursos de Android na UDEMY.com
 -    Instituto Academia do Flutter
